@@ -19,6 +19,9 @@ if your computer can run a terminal that understands ansi escape characters (ie:
 3) Plug in a web camera.
 4) Run the python script
 
+# A Demo please
+
+[Watch the demo](https://github.com/the60ftatomicman/AnsiCam/blob/main/examples/ansi.mp4)
 
 
 
